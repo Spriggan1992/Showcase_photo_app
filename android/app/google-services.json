@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "125354693449",
+    "firebase_url": "https://photoapp-69030.firebaseio.com",
+    "project_id": "photoapp-69030",
+    "storage_bucket": "photoapp-69030.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125354693449:android:1893d6a066ea7d06b24098",
+        "android_client_info": {
+          "package_name": "com.example.photo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125354693449-84qekcq5imhs8hdilgogor3a1u4ns6n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBNP7qEm74zDDM2yXOt9McKqRE646RlKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125354693449-84qekcq5imhs8hdilgogor3a1u4ns6n7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
